@@ -3,3 +3,14 @@ body{
     font-family: Cookie;
     font-size: 30px;
 }
+header{
+    font-size: 50px;
+    text-align: center;
+    background-color:rgb(169, 2, 97);
+    color:rgba(9, 0, 6, 0.979);
+    border:dotted;
+    border-bottom:
+         -top: dashed;
+         -left: dashed;
+         -right: dashed;
+}
