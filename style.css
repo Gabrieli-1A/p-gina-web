@@ -9,8 +9,9 @@ header{
     background-color:rgb(169, 2, 97);
     color:rgba(9, 0, 6, 0.979);
     border:dotted;
-    border-bottom:
-         -top: dashed;
-         -left: dashed;
-         -right: dashed;
+}
+.top1{
+text-align: center;
+background-color: rgba(169, 2, 97, 0.507);
+padding-bottom: 40px;
 }
